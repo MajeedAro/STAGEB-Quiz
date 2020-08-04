@@ -1,0 +1,10 @@
+Hi,
+
+I just realized going through my submission that as at the time of uploading
+my file, For the Question 12, the r2 squared value in my submission was that of
+X_train instead of y_train which I used in answering the Quiz.
+
+I apologize for any inconvenience caused by my mistake.
+
+Thanks,
+Arogundade Abdulmajeed
